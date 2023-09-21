@@ -1,7 +1,6 @@
 {
   "name": "myChain",
   "description": "Eine Beispiel-Blockchain-Anwendung",
-  },
   "env": {
     "PORT": {
       "value": 80
