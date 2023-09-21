@@ -1,0 +1,17 @@
+{
+  "name": "myChain",
+  "description": "Eine Beispiel-Blockchain-Anwendung",
+  },
+  "env": {
+    "PORT": {
+      "value": 80
+    },
+    "BLOCKCHAIN_URL": {
+      "value": "http://127.0.0.1:80"
+    },
+    "INITIAL_DIFFICULTY": {
+      "value": "2"
+    }
+  },
+  "addons": []
+}
