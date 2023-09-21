@@ -2,7 +2,7 @@
   "name": "myChain",
   "description": "Eine Beispiel-Blockchain-Anwendung",
   "env": {
-    "MYCHAIN_PORT": {
+    "PORT": {
       "value": 5000
     },
     "BLOCKCHAIN_URL": {
