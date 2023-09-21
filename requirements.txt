@@ -3,5 +3,5 @@ httpx~=0.16.1
 gunicorn
 uvicorn
 pif
-pydantic~=1.7.3
+pydantic~=2.3
 python-dotenv
