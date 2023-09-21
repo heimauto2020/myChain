@@ -3,10 +3,10 @@
   "description": "Eine Beispiel-Blockchain-Anwendung",
   "env": {
     "MYCHAIN_PORT": {
-      "value": 80
+      "value": 5000
     },
     "BLOCKCHAIN_URL": {
-      "value": "http://127.0.0.1:80"
+      "value": "http://127.0.0.1:5000"
     },
     "INITIAL_DIFFICULTY": {
       "value": "2"
