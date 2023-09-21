@@ -71,7 +71,7 @@ $ git add .
 $ git commit -m "deploying to heroku"
 $ heroku login
 $ heroku create <optional: app_name>
-$ heroku config:set MYCHAIN_PORT=<desired_port>
+$ heroku config:set PORT=<desired_port>
 $ heroku config:set BLOCKCHAIN_URL=http://127.0.0.1:{PORT}
 $ heroku config:set INITIAL_DIFFICULTY=2
 $ git push heroku main
